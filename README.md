@@ -1,4 +1,8 @@
 ## Hello, welcome!
-This repository contains random files that I need to share online./br
-Most of them are used for version control. /n
-Please feel free to wander in my backyard./n
+This repository contains random files that I need to share online.
+
+Most of them are used for version control. 
+
+Please feel free to wander in my backyard.
+
+And hey, I just got to know how to type emoji :+1
